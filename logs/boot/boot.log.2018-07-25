@@ -1,0 +1,8 @@
+25 Jul 2018 19:13:40,165 WARN  [main] bootLogger     - Was not able to bind socket: { 10.198.36.117:6969, TCP }
+25 Jul 2018 19:13:40,170 ERROR [main] bootLogger     - No bound sockets! Check the boot logs for possible problems!
+25 Jul 2018 19:24:46,608 WARN  [main] bootLogger     - Was not able to bind socket: { 10.198.36.117:6969, TCP }
+25 Jul 2018 19:24:46,612 ERROR [main] bootLogger     - No bound sockets! Check the boot logs for possible problems!
+25 Jul 2018 19:46:05,342 WARN  [main] bootLogger     - Was not able to bind socket: { 10.198.36.117:6969, TCP }
+25 Jul 2018 19:46:05,346 ERROR [main] bootLogger     - No bound sockets! Check the boot logs for possible problems!
+25 Jul 2018 19:46:15,775 WARN  [main] bootLogger     - Was not able to bind socket: { 10.198.36.117:6969, TCP }
+25 Jul 2018 19:46:15,779 ERROR [main] bootLogger     - No bound sockets! Check the boot logs for possible problems!

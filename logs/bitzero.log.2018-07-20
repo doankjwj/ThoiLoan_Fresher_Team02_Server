@@ -1,0 +1,66 @@
+20 Jul 2018 17:11:46,232 INFO  [main] bitzero.server.BitZeroServer     - Boot sequence starts...
+20 Jul 2018 17:11:46,249 INFO  [main] bitzero.server.BitZeroServer     - 
+ _____ _____ _____    ___ __ __    _____ _____ _____ _____ 
+|     |     |     |  |   |  |  |  | __  |     |     |_   _|
+| Bit  Zero | @   |  |  gsn |  |  | __ -|  |  |    | |  
+|_____|_____|_____|  |___|__|__|  |_____|_____|_____| |_|
+
+20 Jul 2018 17:11:46,479 INFO  [main] entities.managers.BZBannedUserStorage     - BanUserStorage initialized
+20 Jul 2018 17:11:46,489 WARN  [main] entities.managers.BZBannedUserManager     - Failure loading the BannedUser DB: java.io.InvalidClassException: bitzero.server.entities.managers.BanUserData; local class incompatible: stream classdesc serialVersionUID = -5727904595766376640, local class serialVersionUID = -5615498807880409532
+20 Jul 2018 17:22:34,177 INFO  [main] bitzero.server.BitZeroServer     - Boot sequence starts...
+20 Jul 2018 17:22:34,183 INFO  [main] bitzero.server.BitZeroServer     - 
+ _____ _____ _____    ___ __ __    _____ _____ _____ _____ 
+|     |     |     |  |   |  |  |  | __  |     |     |_   _|
+| Bit  Zero | @   |  |  gsn |  |  | __ -|  |  |    | |  
+|_____|_____|_____|  |___|__|__|  |_____|_____|_____| |_|
+
+20 Jul 2018 17:22:34,335 INFO  [main] entities.managers.BZBannedUserStorage     - BanUserStorage initialized
+20 Jul 2018 17:22:34,350 WARN  [main] entities.managers.BZBannedUserManager     - Failure loading the BannedUser DB: java.io.InvalidClassException: bitzero.server.entities.managers.BanUserData; local class incompatible: stream classdesc serialVersionUID = -5727904595766376640, local class serialVersionUID = -5615498807880409532
+20 Jul 2018 17:22:34,364 INFO  [main] Extensions     - {Fresher}:   Register Handler  
+20 Jul 2018 17:22:34,367 INFO  [main] Extensions     - {Fresher}:  Event Handler  
+20 Jul 2018 17:22:34,458 INFO  [main] bitzero.server.BitZeroServer     - Listening Sockets: 
+20 Jul 2018 17:22:34,458 INFO  [main] bitzero.server.BitZeroServer     -  
+ _____ _____ _____    ___ __ __    
+|     |     |     |  |   |  |  | 
+| Bit  Zero | @   |  |   gsn   |   
+|_____|_____|_____|  |___|__|__|                                       
+ _____ _____ _____ ____  __ __ 
+| __  |   __|  _  |    \|  |  |
+|    -|   __|     |  |  |_   _|
+|__|__|_____|__|__|____/  |_|  
+[ alpha RC ] 
+
+20 Jul 2018 17:22:34,460 INFO  [main] bitzero.server.BitZeroServer     - BitZeroServer Max (alpha RC-READY!
+20 Jul 2018 17:23:14,073 INFO  [main] bitzero.server.BitZeroServer     - Boot sequence starts...
+20 Jul 2018 17:23:14,083 INFO  [main] bitzero.server.BitZeroServer     - 
+ _____ _____ _____    ___ __ __    _____ _____ _____ _____ 
+|     |     |     |  |   |  |  |  | __  |     |     |_   _|
+| Bit  Zero | @   |  |  gsn |  |  | __ -|  |  |    | |  
+|_____|_____|_____|  |___|__|__|  |_____|_____|_____| |_|
+
+20 Jul 2018 17:23:14,217 INFO  [main] entities.managers.BZBannedUserStorage     - BanUserStorage initialized
+20 Jul 2018 17:23:14,232 WARN  [main] entities.managers.BZBannedUserManager     - Failure loading the BannedUser DB: java.io.InvalidClassException: bitzero.server.entities.managers.BanUserData; local class incompatible: stream classdesc serialVersionUID = -5727904595766376640, local class serialVersionUID = -5615498807880409532
+20 Jul 2018 17:23:14,243 INFO  [main] Extensions     - {Fresher}:   Register Handler  
+20 Jul 2018 17:23:14,249 INFO  [main] Extensions     - {Fresher}:  Event Handler  
+20 Jul 2018 17:23:14,320 INFO  [main] bitzero.server.BitZeroServer     - Listening Sockets: 
+20 Jul 2018 17:23:14,320 INFO  [main] bitzero.server.BitZeroServer     -  
+ _____ _____ _____    ___ __ __    
+|     |     |     |  |   |  |  | 
+| Bit  Zero | @   |  |   gsn   |   
+|_____|_____|_____|  |___|__|__|                                       
+ _____ _____ _____ ____  __ __ 
+| __  |   __|  _  |    \|  |  |
+|    -|   __|     |  |  |_   _|
+|__|__|_____|__|__|____/  |_|  
+[ alpha RC ] 
+
+20 Jul 2018 17:23:14,322 INFO  [main] bitzero.server.BitZeroServer     - BitZeroServer Max (alpha RC-READY!
+20 Jul 2018 17:23:28,572 INFO  [main] bitzero.server.BitZeroServer     - Boot sequence starts...
+20 Jul 2018 17:23:28,577 INFO  [main] bitzero.server.BitZeroServer     - 
+ _____ _____ _____    ___ __ __    _____ _____ _____ _____ 
+|     |     |     |  |   |  |  |  | __  |     |     |_   _|
+| Bit  Zero | @   |  |  gsn |  |  | __ -|  |  |    | |  
+|_____|_____|_____|  |___|__|__|  |_____|_____|_____| |_|
+
+20 Jul 2018 17:23:28,713 INFO  [main] entities.managers.BZBannedUserStorage     - BanUserStorage initialized
+20 Jul 2018 17:23:28,733 WARN  [main] entities.managers.BZBannedUserManager     - Failure loading the BannedUser DB: java.io.InvalidClassException: bitzero.server.entities.managers.BanUserData; local class incompatible: stream classdesc serialVersionUID = -5727904595766376640, local class serialVersionUID = -5615498807880409532
